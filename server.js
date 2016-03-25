@@ -16,7 +16,7 @@ CRUD.prototype.connectMysql = function() {
         connectionLimit : 100,
         host     : 'localhost',
         user     : 'root',
-        password : 'saurav_91',
+        password : '123456',
         database : 'myappdb',
         debug    :  false
     });
